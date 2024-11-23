@@ -1,4 +1,4 @@
-﻿Data;Hora;ID do Pedido;Código;Produto;Categoria;SubCategoria;Quantidade;Preço Unitário;Total do Pedido;Custo Unitário;Custo Total;Forma de Pagamento;Tipo;Localidade;Bairro
+Data;Hora;ID do Pedido;Código;Produto;Categoria;SubCategoria;Quantidade;Preço Unitário;Total do Pedido;Custo Unitário;Custo Total;Forma de Pagamento;Tipo;Localidade;Bairro
 01/01/2023;20:06;1;950;LIMAO SUMO 40ML;BEBIDAS NAO ALCOOLICAS ; SUCOS DE FRUTA;6;R$ 2,00 ;R$ 12,00 ;R$ 0,90 ;5,41;Pix;Delivery;Sorocaba;Campolim
 01/01/2023;19:11;2;651;REFRIGERANTE TONICA SCHWEPPES LATA 350ML;BEBIDAS NAO ALCOOLICAS ; REFRIGERANTE;3;R$ 7,00 ;R$ 21,00 ;R$ 2,61 ;7,83;Cartão de Crédito;Presencial;Sorocaba;Campolim
 01/01/2023;20:39;3;672;REFRIGERANTE TONICA CITRUS SCHWEPPES;BEBIDAS NAO ALCOOLICAS ; REFRIGERANTE;1;R$ 7,00 ;R$ 7,00 ;R$ 2,64 ;2,64;Dinheiro;Delivery;Sorocaba;Jardim Piazza Di Roma

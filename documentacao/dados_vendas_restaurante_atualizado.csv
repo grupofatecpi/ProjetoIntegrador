@@ -1,0 +1,102 @@
+Data,Hora,ID do Pedido,Produto,Categoria,Quantidade,Preço Unitário,Total do Pedido,Forma de Pagamento,Avaliação do Cliente
+2024-11-02,19:00,001,Coca-Cola,Bebida,1,8.0,8.0,Pix,3
+2024-11-03,13:00,002,Batata Frita,Entrada,2,10.0,20.0,Pix,1
+2024-11-01,14:00,003,Brownie,Sobremesa,1,20.0,20.0,Pix,4
+2024-11-02,21:00,004,Hamburguer,Prato Principal,1,25.0,25.0,Dinheiro,2
+2024-11-03,21:00,005,Cerveja,Bebida,1,10.0,10.0,Pix,2
+2024-11-03,13:00,006,Brownie,Sobremesa,4,20.0,80.0,Dinheiro,4
+2024-11-02,19:00,007,Água Mineral,Bebida,1,5.0,5.0,Dinheiro,4
+2024-11-01,21:00,008,Água Mineral,Bebida,2,5.0,10.0,Dinheiro,3
+2024-11-02,11:00,009,Coca-Cola,Bebida,4,8.0,32.0,Dinheiro,3
+2024-11-02,19:00,010,Cerveja,Bebida,3,10.0,30.0,Dinheiro,4
+2024-11-02,19:00,011,Coca-Cola,Bebida,4,8.0,32.0,Dinheiro,5
+2024-11-03,14:00,012,Cerveja,Bebida,3,10.0,30.0,Pix,2
+2024-11-02,21:00,013,Coca-Cola,Bebida,1,8.0,8.0,Pix,2
+2024-11-02,20:00,014,Coca-Cola,Bebida,2,8.0,16.0,Dinheiro,4
+2024-11-02,22:00,015,Salada Caesar,Entrada,3,18.0,54.0,Dinheiro,3
+2024-11-03,22:00,016,Batata Frita,Entrada,3,10.0,30.0,Pix,1
+2024-11-01,22:00,017,Tiramisu,Sobremesa,5,15.0,75.0,Pix,2
+2024-11-02,14:00,018,Salada Caesar,Entrada,4,18.0,72.0,Cartão de Crédito,5
+2024-11-02,22:00,019,Pizza,Prato Principal,1,40.0,40.0,Dinheiro,1
+2024-11-03,13:00,020,Suco Natural,Bebida,3,12.0,36.0,Dinheiro,2
+2024-11-02,12:00,021,Pizza,Prato Principal,2,40.0,80.0,Pix,4
+2024-11-02,19:00,022,Salada Caesar,Entrada,2,18.0,36.0,Cartão de Crédito,2
+2024-11-02,20:00,023,Brownie,Sobremesa,5,20.0,100.0,Cartão de Crédito,5
+2024-11-01,12:00,024,Cerveja,Bebida,4,10.0,40.0,Cartão de Crédito,2
+2024-11-01,14:00,025,Brownie,Sobremesa,4,20.0,80.0,Dinheiro,1
+2024-11-03,19:00,026,Tiramisu,Sobremesa,2,15.0,30.0,Pix,4
+2024-11-02,14:00,027,Coca-Cola,Bebida,4,8.0,32.0,Cartão de Crédito,5
+2024-11-03,14:00,028,Brownie,Sobremesa,3,20.0,60.0,Pix,1
+2024-11-01,13:00,029,Coca-Cola,Bebida,5,8.0,40.0,Cartão de Crédito,3
+2024-11-01,11:00,030,Água Mineral,Bebida,4,5.0,20.0,Dinheiro,4
+2024-11-01,11:00,031,Água Mineral,Bebida,5,5.0,25.0,Dinheiro,5
+2024-11-01,14:00,032,Água Mineral,Bebida,5,5.0,25.0,Pix,2
+2024-11-01,22:00,033,Pizza,Prato Principal,2,40.0,80.0,Pix,5
+2024-11-01,12:00,034,Cerveja,Bebida,3,10.0,30.0,Cartão de Crédito,1
+2024-11-02,22:00,035,Pizza,Prato Principal,3,40.0,120.0,Dinheiro,1
+2024-11-01,21:00,036,Cerveja,Bebida,1,10.0,10.0,Dinheiro,4
+2024-11-02,14:00,037,Brownie,Sobremesa,2,20.0,40.0,Dinheiro,4
+2024-11-02,21:00,038,Tiramisu,Sobremesa,3,15.0,45.0,Pix,5
+2024-11-03,22:00,039,Batata Frita,Entrada,5,10.0,50.0,Pix,2
+2024-11-02,21:00,040,Água Mineral,Bebida,4,5.0,20.0,Pix,3
+2024-11-02,14:00,041,Brownie,Sobremesa,4,20.0,80.0,Dinheiro,2
+2024-11-02,13:00,042,Coca-Cola,Bebida,3,8.0,24.0,Dinheiro,5
+2024-11-01,11:00,043,Batata Frita,Entrada,5,10.0,50.0,Dinheiro,1
+2024-11-02,12:00,044,Hamburguer,Prato Principal,2,25.0,50.0,Dinheiro,1
+2024-11-03,21:00,045,Coca-Cola,Bebida,5,8.0,40.0,Dinheiro,3
+2024-11-03,14:00,046,Salada Caesar,Entrada,2,18.0,36.0,Pix,2
+2024-11-02,13:00,047,Cerveja,Bebida,5,10.0,50.0,Cartão de Crédito,2
+2024-11-03,22:00,048,Suco Natural,Bebida,2,12.0,24.0,Dinheiro,1
+2024-11-02,11:00,049,Suco Natural,Bebida,3,12.0,36.0,Cartão de Crédito,4
+2024-11-03,14:00,050,Hamburguer,Prato Principal,1,25.0,25.0,Dinheiro,4
+2024-11-01,12:00,051,Pizza,Prato Principal,1,40.0,40.0,Dinheiro,2
+2024-11-01,22:00,052,Brownie,Sobremesa,4,20.0,80.0,Dinheiro,4
+2024-11-02,13:00,053,Água Mineral,Bebida,4,5.0,20.0,Dinheiro,1
+2024-11-01,22:00,054,Brownie,Sobremesa,1,20.0,20.0,Dinheiro,5
+2024-11-02,20:00,055,Coca-Cola,Bebida,2,8.0,16.0,Dinheiro,4
+2024-11-01,22:00,056,Salada Caesar,Entrada,2,18.0,36.0,Cartão de Crédito,1
+2024-11-02,21:00,057,Suco Natural,Bebida,1,12.0,12.0,Cartão de Crédito,3
+2024-11-03,22:00,058,Água Mineral,Bebida,4,5.0,20.0,Pix,5
+2024-11-02,13:00,059,Salada Caesar,Entrada,2,18.0,36.0,Dinheiro,3
+2024-11-01,22:00,060,Hamburguer,Prato Principal,5,25.0,125.0,Pix,5
+2024-11-02,22:00,061,Pizza,Prato Principal,1,40.0,40.0,Dinheiro,5
+2024-11-02,19:00,062,Brownie,Sobremesa,5,20.0,100.0,Dinheiro,1
+2024-11-01,14:00,063,Coca-Cola,Bebida,2,8.0,16.0,Dinheiro,5
+2024-11-02,19:00,064,Batata Frita,Entrada,4,10.0,40.0,Dinheiro,5
+2024-11-01,22:00,065,Cerveja,Bebida,5,10.0,50.0,Dinheiro,5
+2024-11-02,14:00,066,Suco Natural,Bebida,5,12.0,60.0,Pix,5
+2024-11-02,19:00,067,Água Mineral,Bebida,2,5.0,10.0,Pix,3
+2024-11-02,22:00,068,Água Mineral,Bebida,4,5.0,20.0,Dinheiro,3
+2024-11-03,12:00,069,Pizza,Prato Principal,1,40.0,40.0,Dinheiro,4
+2024-11-02,19:00,070,Cerveja,Bebida,1,10.0,10.0,Dinheiro,5
+2024-11-01,14:00,071,Brownie,Sobremesa,3,20.0,60.0,Dinheiro,3
+2024-11-02,19:00,072,Batata Frita,Entrada,3,10.0,30.0,Cartão de Crédito,2
+2024-11-01,20:00,073,Brownie,Sobremesa,3,20.0,60.0,Pix,5
+2024-11-01,20:00,074,Brownie,Sobremesa,3,20.0,60.0,Pix,1
+2024-11-01,12:00,075,Água Mineral,Bebida,1,5.0,5.0,Dinheiro,5
+2024-11-03,13:00,076,Água Mineral,Bebida,3,5.0,15.0,Pix,2
+2024-11-02,13:00,077,Pizza,Prato Principal,2,40.0,80.0,Pix,3
+2024-11-03,14:00,078,Salada Caesar,Entrada,3,18.0,54.0,Dinheiro,1
+2024-11-02,21:00,079,Suco Natural,Bebida,3,12.0,36.0,Dinheiro,1
+2024-11-02,13:00,080,Tiramisu,Sobremesa,3,15.0,45.0,Dinheiro,4
+2024-11-01,14:00,081,Suco Natural,Bebida,5,12.0,60.0,Dinheiro,1
+2024-11-03,12:00,082,Tiramisu,Sobremesa,5,15.0,75.0,Dinheiro,3
+2024-11-01,21:00,083,Brownie,Sobremesa,2,20.0,40.0,Cartão de Crédito,2
+2024-11-02,21:00,084,Água Mineral,Bebida,3,5.0,15.0,Dinheiro,3
+2024-11-02,20:00,085,Batata Frita,Entrada,1,10.0,10.0,Cartão de Crédito,5
+2024-11-01,22:00,086,Cerveja,Bebida,2,10.0,20.0,Dinheiro,2
+2024-11-02,21:00,087,Suco Natural,Bebida,1,12.0,12.0,Dinheiro,3
+2024-11-02,11:00,088,Batata Frita,Entrada,3,10.0,30.0,Dinheiro,1
+2024-11-02,14:00,089,Hamburguer,Prato Principal,4,25.0,100.0,Dinheiro,2
+2024-11-01,21:00,090,Pizza,Prato Principal,3,40.0,120.0,Dinheiro,2
+2024-11-01,21:00,091,Batata Frita,Entrada,4,10.0,40.0,Cartão de Crédito,3
+2024-11-02,11:00,092,Água Mineral,Bebida,3,5.0,15.0,Pix,5
+2024-11-02,21:00,093,Brownie,Sobremesa,3,20.0,60.0,Dinheiro,1
+2024-11-01,22:00,094,Tiramisu,Sobremesa,5,15.0,75.0,Cartão de Crédito,1
+2024-11-02,11:00,095,Cerveja,Bebida,4,10.0,40.0,Cartão de Crédito,3
+2024-11-03,20:00,096,Cerveja,Bebida,5,10.0,50.0,Dinheiro,4
+2024-11-01,19:00,097,Batata Frita,Entrada,3,10.0,30.0,Dinheiro,4
+2024-11-02,21:00,098,Brownie,Sobremesa,5,20.0,100.0,Pix,2
+2024-11-03,21:00,099,Suco Natural,Bebida,1,12.0,12.0,Pix,3
+2024-11-02,14:00,100,Pizza,Prato Principal,1,40.0,40.0,Pix,3
+2024-11-03,22:00,101,Água Mineral,Bebida,4,5.0,20.0,Cartão de Crédito,4
